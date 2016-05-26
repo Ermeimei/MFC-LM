@@ -1,6 +1,0 @@
-#忽略所有以sdf结尾的文件
-*.txt
-#忽略Debug/目录下的所有文件
-kkk/
-#忽略MFC-LM/Debug/目录下的所有文件
-abc/hhh
