@@ -1,5 +1,7 @@
 #忽略所有以sdf结尾的文件
 *.sdf
+#忽略所有以opensdf结尾的文件
+*.opensdf
 #忽略Debug/目录下的所有文件
 Debug/
 #忽略MFC-LM/Debug/目录下的所有文件
